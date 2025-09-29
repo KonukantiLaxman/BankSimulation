@@ -15,19 +15,19 @@ Bank Account Simulation/
  
  ## Features:
 
-✅ Create a bank account with an initial balance
+1.Create a bank account with an initial balance
 
-✅ Deposit money into the account
+2.Deposit money into the account
 
-✅ Withdraw money (with insufficient balance handling)
+3.Withdraw money (with insufficient balance handling)
 
-✅ View current balance
+4.View current balance
 
-✅ Transaction history for all operations
+5.Transaction history for all operations
 
-✅ Savings account with interest feature
+6.Savings account with interest feature
 
-✅ Demonstrates Inheritance and Method Overriding
+7.Demonstrates Inheritance and Method Overriding
 
 
 
@@ -39,9 +39,9 @@ Bank Account Simulation/
 
 ## 📖 Learning Outcomes:
 
-Understand how OOP principles apply in real-world banking systems.
+1.Understand how OOP principles apply in real-world banking systems.
 
-Learn to structure Java projects with multiple classes.
+2.Learn to structure Java projects with multiple classes.
 
-Practice inheritance, encapsulation, and polymorphism in action.
+3.Practice inheritance, encapsulation, and polymorphism in action.
 
