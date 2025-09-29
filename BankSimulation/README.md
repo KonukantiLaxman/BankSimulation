@@ -33,8 +33,8 @@ Bank Account Simulation/
 
 ## Output:
 
-![alt text](image.png)
-![alt text](<Screenshot 2025-09-29 190330.png>)
+<img width="950" height="371" alt="Screenshot 2025-09-29 190330" src="https://github.com/user-attachments/assets/6f7d8724-70dc-4c98-bc5a-87ec9f1161e7" />
+
 
 
 ## 📖 Learning Outcomes:
